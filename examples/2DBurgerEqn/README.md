@@ -1,4 +1,4 @@
-###2D Burgers' Equation
+### 2D Burgers' Equation
 
 
 **Procedure**:

@@ -15,7 +15,7 @@ The following versions of packages have been verified to work. Other versions ma
 - Pickle: 0.7.5
 
 ## Examples
-Three examples are provided, including 
+Four examples are provided, including 
 - 1D Burgers Equation 
 - 2D Burgers Equation
 - Time-Dependent Radial Advection ([MFEM](https://github.com/mfem/mfem/blob/master/examples/ex9.cpp))

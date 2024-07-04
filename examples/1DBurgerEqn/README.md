@@ -1,4 +1,4 @@
-###1D Burgers' Equation
+### 1D Burgers' Equation
 
 **Procedure**:
 - run `generate_data.ipynb` to generate dataset:
