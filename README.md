@@ -75,4 +75,4 @@ The Jupyter notebooks for data generation, model training and evaluation are pro
 
 
 ## Citation
-[He, X., Tran, A., Bortz, DM., Choi, Y. (2024). WgLaSDI: Weak-Form Greedy Latent Space Dynamics Identification. arXiv preprint arXiv:2407.00337.](https://arxiv.org/abs/2407.00337)
+[He, X., Tran, A., Bortz, DM., Choi, Y. (2024). Physics-informed active learning with simultaneous weak-form latent space dynamics identification. arXiv preprint arXiv:2407.00337.](https://arxiv.org/abs/2407.00337)
