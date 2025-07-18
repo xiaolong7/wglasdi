@@ -75,4 +75,13 @@ The Jupyter notebooks for data generation, model training and evaluation are pro
 
 
 ## Citation
-[He, X., Tran, A., Bortz, DM., Choi, Y. (2024). Physics-informed active learning with simultaneous weak-form latent space dynamics identification. arXiv preprint arXiv:2407.00337.](https://arxiv.org/abs/2407.00337)
+[He, X., Tran, A., Bortz, D. M., & Choi, Y. (2025). Physics‐Informed Active Learning With Simultaneous Weak‐Form Latent Space Dynamics Identification. International Journal for Numerical Methods in Engineering, 126(1), e7634.]((https://doi.org/10.1002/nme.7634))
+
+
+## Acknowledgement
+Y. Choi was supported for this work by the CHaRMNET Mathematical Multifaceted Integrated Capability Center (MMICC).
+
+## Release
+WgLaSDI is distributed under the terms of the MIT license. All new contributions must be made under the MIT. See [LICENSE](https://github.com/xiaolong7/wglasdi/blob/main/LICENSE)
+
+LLNL-CODE-2003437
