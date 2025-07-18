@@ -84,4 +84,4 @@ Y. Choi was supported for this work by the CHaRMNET Mathematical Multifaceted In
 ## Release
 WgLaSDI is distributed under the terms of the MIT license. All new contributions must be made under the MIT. See [LICENSE](https://github.com/xiaolong7/wglasdi/blob/main/LICENSE)
 
-LLNL-CODE-2003437
+LLNL Release Nubmer: LLNL-CODE-2003437
