@@ -2,7 +2,7 @@
 
 
 The [ex9.cpp](https://github.com/mfem/mfem/blob/master/examples/ex9.cpp) is modified to include the parameterized initial condition and an option to compute the residual given the predicted solutions from the model. The modified `ex9.cpp` and the corresponding executable (`ex9`) are located at `wglasdi/src/`. The executable (`ex9`) can be used to generate data and will be called to compute residual-based error indicator during training of the model.
- s
+
  
 **Procedure**:
 - run `generate_data.ipynb` to generate dataset; A mesh file ([`periodic-square.mesh`](https://github.com/mfem/mfem/blob/master/data/periodic-square.mesh)) is included in `wglasdi/examples/MFEMex9/`.
